@@ -1,8 +1,8 @@
 /**
- * learnNATOv2 - Copyright (c) 2020, eluthro. All rights reserved.
+ * NATOxConsole - Copyright (c) 2020, eluthro. All rights reserved.
  */
 
-public class learnNATOv2 {
+public class NATOxConsole {
 
     public static void main(String[] args) {
         
